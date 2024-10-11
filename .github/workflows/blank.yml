@@ -14,7 +14,7 @@ on:
   workflow_dispatch:
     inputs:
         allowbuild:
-          description: ' this will allow build '
+          description: 'this will allow build'
           type: boolean
           required: true
 
